@@ -1,0 +1,14 @@
+{
+  "name": "collector-bot",
+  "main": "bot.js",
+  "version": "2.0.0",
+  "license": "GPL-3.0",
+  "author": "Jesús Ángel González Novez",
+  "scripts": {
+    "start": "node ./bot.js"
+  },
+  "dependencies": {
+    "telegram-node-bot": "latest"
+  },
+  "devDependencies": {}
+}
